@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Alex
+"""
+
 # Etapa de carga de base de datos
 import pandas as pd
 
